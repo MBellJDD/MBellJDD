@@ -1,9 +1,10 @@
 ### <h1 align="center">Hi 👋, I'm Marybell José Díaz Díaz</h1>
 <h3 align="center">Graduated with a Diploma in Business Sciences.</h3><hr>
 
+<h3 align="left">Contact me:</h3>
 - 📫  Email: **marybell@gmail.com**
 
-<h3 align="left">Contact me:</h3>
+
 
 <h2 align="left">Used tools:</h2>
 <p align="left"> 
