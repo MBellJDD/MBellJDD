@@ -4,7 +4,7 @@
 
 <h3 align="left">Contact me:</h3>
 
-- 📫  Email: **marybell@gmail.com**
+- 📫  Email: **marybelljd@gmail.com**
 
 
 
