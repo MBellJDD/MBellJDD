@@ -2,6 +2,7 @@
 <h3 align="center">Graduated with a Diploma in Business Sciences.</h3><hr>
 
 <h3 align="left">Contact me:</h3>
+
 - 📫  Email: **marybell@gmail.com**
 
 
