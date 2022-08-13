@@ -18,6 +18,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <img width="5%">
 
+<h3 dir="auto"><a id="user-content-development-environment-and-version-control" class="anchor" aria-hidden="true" href="#development-environment"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Development Environment</h3>
+
 <code><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/634aef613fc56ac2eb9bf95543ec63ba8527b0a82cee4ef6452e5051de2f17ea/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f76697375616c73747564696f5f636f64652f76697375616c73747564696f5f636f64652d617232312e737667"><img width="10%" src="https://camo.githubusercontent.com/634aef613fc56ac2eb9bf95543ec63ba8527b0a82cee4ef6452e5051de2f17ea/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f76697375616c73747564696f5f636f64652f76697375616c73747564696f5f636f64652d617232312e737667" data-canonical-src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" style="max-width: 100%;"></a></code>
 
 <h2 align="left">Languages & tools:</h2>
