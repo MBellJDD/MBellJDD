@@ -5,13 +5,22 @@
 :woman_student: I am a full stack junior developer in training by Factory F5 Bootcamp (FemCoder)<br>
 :dog: Animal lover<br>
 :airplane: Travel and nature lover<br>
-<h3 align="left">Contact me:</h3>
+<h2 align="left">Contact me:</h2>
 
-- 📫  Email: **marybelljd@gmail.com**
+<p dir="auto">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/marybell-jos%C3%A9-d%C3%ADaz-d%C3%ADaz-24b28237/" rel="nofollow"><img width="5%" src="https://camo.githubusercontent.com/e591fde37567a32e51fb1b98924f4df8e45199dca985500749e2a9938fa3e322/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6c696e6b6564696e2f6c696e6b6564696e2d69636f6e2e737667" data-canonical-src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" style="max-width: 100%;"></a>
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+<a href="/**marybelljd@gmail.com**"><img width="5%" src="https://camo.githubusercontent.com/e1fb4ce58fc1074489bdbdacd0c175ffa7cbd1182ecb3ac4cb77ea8b8271288f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676d61696c2f676d61696c2d69636f6e2e737667" data-canonical-src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" style="max-width: 100%;"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="[/Julieta3164/Julieta3164/blob/main](https://twitter.com/MaryBellJDD)"><img width="5%" src="https://camo.githubusercontent.com/add222ec9b371f83d4071154e2e345d199ba3351ccd8ded77cd8dba310c25826/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f747769747465722f747769747465722d69636f6e2e737667" data-canonical-src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" style="max-width: 100%;"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="MaryBell#7389"><img width="5%" src="https://camo.githubusercontent.com/5e36552813e6fa3f4014fde09b7acd3668a5c8e183782603d1eb1169ac29f8e9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646973636f72646170702f646973636f72646170702d69636f6e2e737667" data-canonical-src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" style="max-width: 100%;"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<img width="5%">
 
+<code><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/634aef613fc56ac2eb9bf95543ec63ba8527b0a82cee4ef6452e5051de2f17ea/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f76697375616c73747564696f5f636f64652f76697375616c73747564696f5f636f64652d617232312e737667"><img width="10%" src="https://camo.githubusercontent.com/634aef613fc56ac2eb9bf95543ec63ba8527b0a82cee4ef6452e5051de2f17ea/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f76697375616c73747564696f5f636f64652f76697375616c73747564696f5f636f64652d617232312e737667" data-canonical-src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" style="max-width: 100%;"></a></code>
 
-
-<h2 align="left">Used tools:</h2>
+<h2 align="left">Languages & tools:</h2>
 <p align="left"> 
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
