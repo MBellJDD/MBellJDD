@@ -14,7 +14,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/MaryBellJDD"><img width="5%" src="https://camo.githubusercontent.com/add222ec9b371f83d4071154e2e345d199ba3351ccd8ded77cd8dba310c25826/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f747769747465722f747769747465722d69636f6e2e737667" data-canonical-src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" style="max-width: 100%;"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="MaryBell#7389"><img width="5%" src="https://camo.githubusercontent.com/5e36552813e6fa3f4014fde09b7acd3668a5c8e183782603d1eb1169ac29f8e9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646973636f72646170702f646973636f72646170702d69636f6e2e737667" data-canonical-src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" style="max-width: 100%;"></a>
+<a href="https://discord.com/developers/docs/intro"><img width="5%" src="https://camo.githubusercontent.com/5e36552813e6fa3f4014fde09b7acd3668a5c8e183782603d1eb1169ac29f8e9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646973636f72646170702f646973636f72646170702d69636f6e2e737667" data-canonical-src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" style="max-width: 100%;"></a>
 &nbsp;&nbsp;&nbsp;</p>
 <img width="5%">
 <h2 align="left">Languages & tools:</h2>
